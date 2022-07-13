@@ -1,6 +1,5 @@
 <div align="center">
     <h1> Podcastr - NLW#5 - Trilha ReactJS</h1>
-    <img src="public/logo.svg" alt="Tela principal, sem podcast tocando">
 </div>
 
 # Projeto
